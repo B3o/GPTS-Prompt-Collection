@@ -3,6 +3,19 @@
 >  项目将持续收集GPTS Store中的精彩Prompt🔍...
 >
 >  如果您觉得这项收集对您有所帮助，请给一个star⭐️，持续关注更新动态！
+## GPTS分类
+* [写作/Writing](./14/)
+* [开发/Developer](./16/)
+* [生产力/Productivity](./15/)
+* [商业/Business](./17/)
+* [教育/Education](./21/)
+* [金融/Finance](./39/)
+* [健康/Health](./38/)
+* [营销/Marketing](./18/)
+* [销售/Sales](./50/)
+* [游戏/Games](./22/)
+* [设计/Designer](./20/)
+
 
 ## 写作/Writing 
   [GPT提示创作器](./14/GPT提示创作器.md)  
