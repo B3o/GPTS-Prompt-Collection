@@ -8,6 +8,10 @@
 + 2024年01月27日  新增了300+ GPTS Prompt
 + 2024年01月28日  新增了280+ GPTS Prompt
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=B3o/GPTS-Prompt-Collection&type=Date)](https://star-history.com/#B3o/GPTS-Prompt-Collection&Date)
+
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
 ## GPTS分类
