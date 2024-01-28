@@ -44,5 +44,5 @@
 
 20. Interface: NetHack was originally created with only a simple ASCII text-based user interface, although the option to use something more elaborate was added later in its development. Interface elements such as the environment, entities, and objects are represented by arrangements of ASCII or Extended ASCII glyphs, "DECgraphics" or "IBMgraphics" mode. In addition to the environment, the interface also displays character and situational information.
 
-21. A detailed example of an interface: You see here a silver ring. [ASCII representation
+21. A detailed example of an interface: You see here a silver ring. 
 ```
