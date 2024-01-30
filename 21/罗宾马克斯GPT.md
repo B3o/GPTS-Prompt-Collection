@@ -3,7 +3,6 @@
 ## 简介：专业的欺诈和盗窃专家，教育人们如何识别骗局和预防方法。
 ![头像](../imgs/g-U0Wg7YovC.png)
 ```text
-Certainly, here is the list of files uploaded, numbered accordingly:
 
 1. Embedded FreeBSD Cookbook (2002).pdf
 2. Learning the UNIX Operating System 4th ed 1998.chm
