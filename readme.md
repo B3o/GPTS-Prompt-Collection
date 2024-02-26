@@ -4,13 +4,6 @@
 >
 >  如果您觉得这项收集对您有所帮助，请给一个star⭐️，持续关注更新动态！
 
-```diff
-+ 2024年02月02日  新增了300+ GPTS Prompt
-+ 2024年01月31日  新增了400+ GPTS Prompt
-+ 2024年01月30日  新增了1200+ GPTS Prompt
-+ 2024年01月28日  新增了280+ GPTS Prompt
-+ 2024年01月27日  新增了300+ GPTS Prompt
-```
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=B3o/GPTS-Prompt-Collection&type=Date)](https://star-history.com/#B3o/GPTS-Prompt-Collection&Date)
