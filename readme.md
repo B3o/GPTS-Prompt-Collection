@@ -4,6 +4,10 @@
 >
 >  如果您觉得这项收集对您有所帮助，请给一个star⭐️，持续关注更新动态！
 
+## 感谢赞助 📿   
+性价比超高的API中转服务商——笔墨教育
+[笔墨教育小铺](https://pay.fast-tunnel.one/)
+[Openai API集成平台](https://api.fast-tunnel.one)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=B3o/GPTS-Prompt-Collection&type=Date)](https://star-history.com/#B3o/GPTS-Prompt-Collection&Date)
