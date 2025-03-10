@@ -14,6 +14,12 @@
 
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
+## 人工精选 单独收集
+### Manus AI Assistant
+* [Agent/代理](./Boutique/manus%20agent%20prompt.md)
+* [Prompt/提示](./Boutique/manus%20prompt.md)
+* [Tools/工具](./Boutique/manus%20tools.md)
+
 ## GPTS分类
 * [写作/Writing](./14/)
 * [开发/Developer](./16/)
