@@ -14,7 +14,22 @@
 
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
-## 人工精选 单独收集
+
+## GPTS分类
+* [人工精选 手动收集](./Boutique/)
+* [写作/Writing](./14/)
+* [开发/Developer](./16/)
+* [生产力/Productivity](./15/)
+* [商业/Business](./17/)
+* [教育/Education](./21/)
+* [金融/Finance](./39/)
+* [健康/Health](./38/)
+* [营销/Marketing](./18/)
+* [销售/Sales](./50/)
+* [游戏/Games](./22/)
+* [设计/Designer](./20/)
+
+## 人工精选 手动收集
 [Agent/代理](./Boutique/manus%20agent%20prompt.md)  
 [Prompt/提示](./Boutique/manus%20prompt.md)  
 [Tools/工具](./Boutique/manus%20tools.md)  
@@ -28,19 +43,6 @@
 [概念理解](./Boutique/辅助概念理解.md)  
 [领域速成](./Boutique/领域知识速成专业.md)  
 [文本摘要](./Boutique/摘要.md)
-
-## GPTS分类
-* [写作/Writing](./14/)
-* [开发/Developer](./16/)
-* [生产力/Productivity](./15/)
-* [商业/Business](./17/)
-* [教育/Education](./21/)
-* [金融/Finance](./39/)
-* [健康/Health](./38/)
-* [营销/Marketing](./18/)
-* [销售/Sales](./50/)
-* [游戏/Games](./22/)
-* [设计/Designer](./20/)
 
 ## 写作/Writing 
   [ACME](./14/ACME.md)  
