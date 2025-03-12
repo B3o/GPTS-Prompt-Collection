@@ -15,10 +15,19 @@
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
 ## 人工精选 单独收集
-### Manus AI Assistant
-* [Agent/代理](./Boutique/manus%20agent%20prompt.md)
-* [Prompt/提示](./Boutique/manus%20prompt.md)
-* [Tools/工具](./Boutique/manus%20tools.md)
+[Agent/代理](./Boutique/manus%20agent%20prompt.md)  
+[Prompt/提示](./Boutique/manus%20prompt.md)  
+[Tools/工具](./Boutique/manus%20tools.md)  
+[深度思考](./Boutique/Claude深度思考.md)  
+[学习助手](./Boutique/学习助手.md)  
+[思维导图](./Boutique/总结成思维导图.md)  
+[知识问答](./Boutique/知识问答.md)  
+[翻译助手](./Boutique/翻译.md)  
+[PDF转换](./Boutique/pdf转网页.md)  
+[算法竞赛](./Boutique/算法竞赛题.md)  
+[概念理解](./Boutique/辅助概念理解.md)  
+[领域速成](./Boutique/领域知识速成专业.md)  
+[文本摘要](./Boutique/摘要.md)
 
 ## GPTS分类
 * [写作/Writing](./14/)
