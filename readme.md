@@ -4,10 +4,7 @@
 >
 >  如果您觉得这项收集对您有所帮助，请给一个star⭐️，持续关注更新动态！
 
-## 感谢赞助 📿   
-性价比超高的API中转服务商——笔墨教育
-[笔墨教育小铺](https://pay.fast-tunnel.one/)
-[Openai API集成平台](https://api.fast-tunnel.one)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=B3o/GPTS-Prompt-Collection&type=Date)](https://star-history.com/#B3o/GPTS-Prompt-Collection&Date)
@@ -30,6 +27,8 @@
 * [设计/Designer](./20/)
 
 ## 人工精选 手动收集
+[Dia浏览器系统提示词](./Boutique/Dia浏览器系统提示词.md)  
+[Dia browser system prompt](./Boutique/Dia%20browser%20system%20prompt.md)  
 [Agent/代理](./Boutique/manus%20agent%20prompt.md)  
 [Prompt/提示](./Boutique/manus%20prompt.md)  
 [Tools/工具](./Boutique/manus%20tools.md)  
