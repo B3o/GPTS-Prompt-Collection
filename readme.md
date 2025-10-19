@@ -12,6 +12,10 @@
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
 
+## 最新更新 / Latest Updates
+- 2025-10-19: Added 10 new Boutique bilingual prompts (Dev 4, Writing 3, Product 3) / 新增 Boutique 10 个双语提示（开发4、写作3、产品3）：
+  [Code Review Architect / 代码评审架构师](./Boutique/dev-code-review-architect.md), [Bug Reproduction & Fix Plan / Bug 复现与修复方案](./Boutique/dev-bug-repro-fix-plan.md), [Unit Test Generator / 单元测试生成器](./Boutique/dev-unit-test-generator.md), [Refactor to DI & Pure Functions / 重构为依赖注入与纯函数](./Boutique/dev-refactor-di-pure-functions.md), [PR Description Composer / PR 描述生成器](./Boutique/writing-pr-description-composer.md), [Conventional Commit Normalizer / 提交信息规范化](./Boutique/writing-commit-message-normalizer.md), [Bilingual Tech Writer / 双语技术写作助手](./Boutique/writing-bilingual-tech-writer.md), [Requirement Clarifier / 需求澄清助手](./Boutique/product-requirement-clarifier.md), [A/B Experiment Designer / A/B 实验设计助手](./Boutique/product-ab-experiment-designer.md), [API Contract Designer / API 契约设计助手](./Boutique/product-api-contract-designer.md)
+
 ## GPTS分类
 * [人工精选 手动收集](./Boutique/)
 * [写作/Writing](./14/)
@@ -42,6 +46,16 @@
 [概念理解](./Boutique/辅助概念理解.md)  
 [领域速成](./Boutique/领域知识速成专业.md)  
 [文本摘要](./Boutique/摘要.md)
+[Code Review Architect / 代码评审架构师](./Boutique/dev-code-review-architect.md)  
+[Bug Reproduction & Fix Plan / Bug 复现与修复方案](./Boutique/dev-bug-repro-fix-plan.md)  
+[Unit Test Generator / 单元测试生成器](./Boutique/dev-unit-test-generator.md)  
+[Refactor to DI & Pure Functions / 重构为依赖注入与纯函数](./Boutique/dev-refactor-di-pure-functions.md)  
+[PR Description Composer / PR 描述生成器](./Boutique/writing-pr-description-composer.md)  
+[Conventional Commit Normalizer / 提交信息规范化](./Boutique/writing-commit-message-normalizer.md)  
+[Bilingual Tech Writer / 双语技术写作助手](./Boutique/writing-bilingual-tech-writer.md)  
+[Requirement Clarifier / 需求澄清助手](./Boutique/product-requirement-clarifier.md)  
+[A/B Experiment Designer / A/B 实验设计助手](./Boutique/product-ab-experiment-designer.md)  
+[API Contract Designer / API 契约设计助手](./Boutique/product-api-contract-designer.md)  
 
 ## 写作/Writing 
   [ACME](./14/ACME.md)  
@@ -2282,7 +2296,7 @@
 [🚘 Artful Auto Creator lv3.4](./17/🚘%20Artful%20Auto%20Creator%20lv3.4.md)  
 [🤝 人力资源服务超级教练 🚀](./17/🤝%20人力资源服务超级教练%20🚀.md)  
 [🤝✨ PR Ace Communicator 🚀🌟](./17/🤝✨%20PR%20Ace%20Communicator%20🚀🌟.md)  
-[🧑	HR战略家Pro GPT 📊](./17/🧑%20HR战略家Pro%20GPT%20📊.md)  
+[🧑    HR战略家Pro GPT 📊](./17/🧑%20HR战略家Pro%20GPT%20📊.md)  
 [🧑‍💼 人力资源虚拟合规顾问 📋](./17/🧑‍💼%20人力资源虚拟合规顾问%20📋.md)  
 [🧳✨ 人才流动大师 GPT](./17/🧳✨%20人才流动大师%20GPT.md)  
 ## 健康/Health 
