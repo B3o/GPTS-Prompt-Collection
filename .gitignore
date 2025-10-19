@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.idea/
+.vscode/
+
+# Node/JS (not used, but safe)
+node_modules/
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Builds & caches
+/dist/
+/build/
+.cache/
+.tmp/
+
+# Python caches (if any tooling is used)
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Misc
+*.swp
