@@ -74,7 +74,6 @@ diff --git a/app.py b/app.py
 +    return data
 ```
 - Example output (short)
-```
 Summary: Found hardcoded secret and suboptimal loop.
 
 Findings
@@ -96,7 +95,6 @@ def fetch(items):
     return [process(item) for item in items]
 ```
 Rationale: eliminates secret in code and improves performance/readability.
-```
 
 Notes / Tips
 - Share any internal guidelines (lint rules, secure coding policies). / 请提供内部规范（如Lint与安全准则）。

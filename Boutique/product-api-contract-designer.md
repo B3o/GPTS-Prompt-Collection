@@ -64,7 +64,6 @@ Compat: v1 stable, additive changes only
 Auth: OAuth2 Bearer
 ```
 - Example output (short)
-```
 Resources / 资源
 - Order { id, status, items[], total, created_at }
 
@@ -88,7 +87,6 @@ Errors / 错误
 
 Versioning / 版本
 - Additive changes only; deprecate via Sunset header.
-```
 
 Notes / Tips
 - Prefer snake_case for JSON fields or match existing conventions. / JSON字段命名保持一致性。

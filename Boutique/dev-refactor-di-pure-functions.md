@@ -58,7 +58,6 @@ I/O: time, network
 Constraints: keep API signature
 ```
 - Example output (short)
-```
 Plan
 - Extract clock and transport as interfaces; inject via params.
 
@@ -72,7 +71,6 @@ function sendReport(clock, transport){ const ts=clock.now(); return transport.po
 ```
 Risks
 - Call sites need adapters (mitigation: add default wrappers).
-```
 
 Notes / Tips
 - Prefer constructor/parameter injection. / 优先构造或参数注入。

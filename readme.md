@@ -12,10 +12,6 @@
 <!-- ### AIGC副业相关讨论群组请加
 <img src="./imgs/Wechat.jpg" alt="wechat" style="zoom:25%;" /> -->
 
-## 最新更新 / Latest Updates
-- 2025-10-19: Added 10 new Boutique bilingual prompts (Dev 4, Writing 3, Product 3) / 新增 Boutique 10 个双语提示（开发4、写作3、产品3）：
-  [Code Review Architect / 代码评审架构师](./Boutique/dev-code-review-architect.md), [Bug Reproduction & Fix Plan / Bug 复现与修复方案](./Boutique/dev-bug-repro-fix-plan.md), [Unit Test Generator / 单元测试生成器](./Boutique/dev-unit-test-generator.md), [Refactor to DI & Pure Functions / 重构为依赖注入与纯函数](./Boutique/dev-refactor-di-pure-functions.md), [PR Description Composer / PR 描述生成器](./Boutique/writing-pr-description-composer.md), [Conventional Commit Normalizer / 提交信息规范化](./Boutique/writing-commit-message-normalizer.md), [Bilingual Tech Writer / 双语技术写作助手](./Boutique/writing-bilingual-tech-writer.md), [Requirement Clarifier / 需求澄清助手](./Boutique/product-requirement-clarifier.md), [A/B Experiment Designer / A/B 实验设计助手](./Boutique/product-ab-experiment-designer.md), [API Contract Designer / API 契约设计助手](./Boutique/product-api-contract-designer.md)
-
 ## GPTS分类
 * [人工精选 手动收集](./Boutique/)
 * [写作/Writing](./14/)

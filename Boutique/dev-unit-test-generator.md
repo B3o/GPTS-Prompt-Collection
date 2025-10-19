@@ -60,7 +60,6 @@ Framework: Jest
 function sum(a,b){ if(a==null||b==null) throw new Error('x'); return a+b }
 ```
 - Example output (short)
-```
 Assumptions: pure function; no I/O.
 
 Cases
@@ -82,7 +81,6 @@ test('C3', ()=> expect(()=>sum(null as any,2)).toThrow());
 ```
 
 Coverage Focus: exceptions branch + typical path. 说明：覆盖异常分支与常规路径。
-```
 
 Notes / Tips
 - Stub network/disk. / 网络与磁盘需打桩。
