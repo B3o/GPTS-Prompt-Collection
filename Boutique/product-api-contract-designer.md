@@ -1,9 +1,6 @@
 # API Contract Designer
 # API 契约设计助手
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You design API contracts (REST/GraphQL).

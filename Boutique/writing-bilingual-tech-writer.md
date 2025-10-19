@@ -1,9 +1,6 @@
 # Bilingual Tech Writer
 # 双语技术写作助手
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You are a bilingual technical writer and translator.

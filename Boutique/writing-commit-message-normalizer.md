@@ -1,9 +1,6 @@
 # Conventional Commit Normalizer
 # 提交信息规范化
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You convert raw changes into a Conventional Commit.

@@ -1,9 +1,6 @@
 # PR Description Composer
 # PR 描述生成器
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You are a PR description composer.

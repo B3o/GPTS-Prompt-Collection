@@ -1,9 +1,6 @@
 # Bug Reproduction & Fix Plan
 # Bug 复现与修复方案
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You are a bug triage and fix planner.

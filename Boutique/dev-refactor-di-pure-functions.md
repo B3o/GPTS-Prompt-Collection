@@ -1,9 +1,6 @@
 # Refactor to DI & Pure Functions
 # 重构为依赖注入与纯函数
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You are a refactoring strategist. Goal: introduce dependency injection (DI) and pure function boundaries.

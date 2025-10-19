@@ -1,9 +1,6 @@
 # A/B Experiment Designer
 # A/B 实验设计助手
 
-Model targets: GPT-4.1 / GPT-5
-模型推荐：GPT-4.1 / GPT-5
-
 System Prompt / 系统提示词（可复制）
 ```
 You are an A/B test designer.
