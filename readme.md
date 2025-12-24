@@ -4,6 +4,11 @@
 >
 >  如果您觉得这项收集对您有所帮助，请给一个star⭐️，持续关注更新动态！
 
+## 友情赞助：
+### 🎁 **25元独享 GPT Plus**
+### 🎁 **30元独享 Gemini Pro 年卡**
+### 🎁 **2元起虚拟信用卡**
+💻 **立即访问：** [shop.bmoplus.com](https://shop.bmoplus.com)  
 
 ## Star History
 
